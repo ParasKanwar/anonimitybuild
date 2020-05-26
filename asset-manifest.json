@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.ed881b31.chunk.css",
-    "main.js": "/static/js/main.7c1f685c.chunk.js",
-    "main.js.map": "/static/js/main.7c1f685c.chunk.js.map",
+    "main.css": "/static/css/main.696898f4.chunk.css",
+    "main.js": "/static/js/main.9ba2a4fd.chunk.js",
+    "main.js.map": "/static/js/main.9ba2a4fd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18057c50.js",
     "runtime-main.js.map": "/static/js/runtime-main.18057c50.js.map",
     "static/css/2.0d587e05.chunk.css": "/static/css/2.0d587e05.chunk.css",
-    "static/js/2.a724c52d.chunk.js": "/static/js/2.a724c52d.chunk.js",
-    "static/js/2.a724c52d.chunk.js.map": "/static/js/2.a724c52d.chunk.js.map",
+    "static/js/2.f97a77d9.chunk.js": "/static/js/2.f97a77d9.chunk.js",
+    "static/js/2.f97a77d9.chunk.js.map": "/static/js/2.f97a77d9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6f022af682acd1b3c95b8237332a18ea.js": "/precache-manifest.6f022af682acd1b3c95b8237332a18ea.js",
+    "precache-manifest.298318d8d2b582873c9470b7a9499417.js": "/precache-manifest.298318d8d2b582873c9470b7a9499417.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.0d587e05.chunk.css.map": "/static/css/2.0d587e05.chunk.css.map",
-    "static/css/main.ed881b31.chunk.css.map": "/static/css/main.ed881b31.chunk.css.map",
-    "static/js/2.a724c52d.chunk.js.LICENSE.txt": "/static/js/2.a724c52d.chunk.js.LICENSE.txt",
+    "static/css/main.696898f4.chunk.css.map": "/static/css/main.696898f4.chunk.css.map",
+    "static/js/2.f97a77d9.chunk.js.LICENSE.txt": "/static/js/2.f97a77d9.chunk.js.LICENSE.txt",
     "static/media/CWorkers.png": "/static/media/CWorkers.e32a98bc.png",
     "static/media/CWorkers1.png": "/static/media/CWorkers1.2e1aadd3.png",
     "static/media/ChatView.png": "/static/media/ChatView.189a3e81.png",
@@ -22,13 +22,14 @@
     "static/media/NotesView.png": "/static/media/NotesView.c9eb9a52.png",
     "static/media/NotesView1.png": "/static/media/NotesView1.f63c6b33.png",
     "static/media/complainify.png": "/static/media/complainify.bc7f0fe6.png",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/password.png": "/static/media/password.51c719df.png"
   },
   "entrypoints": [
     "static/js/runtime-main.18057c50.js",
     "static/css/2.0d587e05.chunk.css",
-    "static/js/2.a724c52d.chunk.js",
-    "static/css/main.ed881b31.chunk.css",
-    "static/js/main.7c1f685c.chunk.js"
+    "static/js/2.f97a77d9.chunk.js",
+    "static/css/main.696898f4.chunk.css",
+    "static/js/main.9ba2a4fd.chunk.js"
   ]
 }
