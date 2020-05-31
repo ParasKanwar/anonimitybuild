@@ -1,0 +1,2 @@
+@-webkit-keyframes rotate{0%{box-shadow:0 0 0 hsla(0,0%,100%,.6)}50%{box-shadow:0 0 20px hsla(0,0%,100%,.6)}to{box-shadow:0 0 0 hsla(0,0%,100%,.6)}}@keyframes rotate{0%{box-shadow:0 0 0 hsla(0,0%,100%,.6)}50%{box-shadow:0 0 20px hsla(0,0%,100%,.6)}to{box-shadow:0 0 0 hsla(0,0%,100%,.6)}}.rotate{-webkit-animation:rotate 1s infinite;animation:rotate 1s infinite}
+/*# sourceMappingURL=21.836df8ff.chunk.css.map */
